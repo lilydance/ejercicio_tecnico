@@ -1,0 +1,314 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: .3s all ease;
+}
+
+.App {
+  margin: 0%;
+  padding: 0%;
+}
+
+@font-face {
+  font-family: Francois_One;
+  font-style: normal;
+  src: url(/src/FrancoisOne-Regular.ttf);
+}
+
+@font-face {
+  font-family: Gilda_Display;
+  font-style: normal;
+  src: url(/src/GildaDisplay-Regular.ttf);
+}
+
+@font-face {
+  font-family: Quicksand;
+  font-style: normal;
+  src: url(/src/Quicksand-VariableFont_wght.ttf);
+}
+.Francois_One{
+  font-family: Francois_One;
+}
+.Gilda_Display{
+  font-family: Gilda_Display;
+}
+.Quicksand{
+  font-family: Quicksand;
+}
+.position{
+  position: relative;
+}
+.Home{
+  position: absolute;
+  margin: -15px;
+  left: 65%;
+  transform: translate(-50%,-50%);
+  width: 35px;
+}
+.menu{
+  color: rgb(96, 96, 171);
+}
+.details{
+  position: absolute;
+  color: #fff;
+  background: coral;
+  border-radius: 50%;
+  font-size: 62%;
+  top: 0;
+  left: 12px;
+  transform: translateY(20%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+header span {
+  font-size: 50%;
+  font-family: Quicksand;
+  color: white;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+.nav-link:hover{
+  color: coral;
+}
+.barra_superior {
+  background: coral;
+  font-family: Francois_One;
+}
+a:hover{
+  color: coral;
+}
+
+.ballon {
+  transform: translateY(-70%) translateX(-5px);
+  color: #fff;
+  background-color: coral;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  position: relative;
+  text-align: center;
+}
+
+#shoping {
+  font-size: 72%;
+}
+
+.container {
+  position: relative;
+}
+
+.Slider {
+  position: relative;
+
+}
+
+.sliderContenedor {
+  position: absolute;
+  color: #fff;
+  font-size: 100%;
+  width: 100%;
+  height: auto;
+  bottom: 42px;
+  left: 15px;
+}
+
+.jumpsuits {
+  display: inline-block;
+  font-size: 350%;
+  
+}
+
+.letter {
+  display: inline-block;
+  font-size: 100%;
+  
+}
+
+.discoverContenedor {
+  display: inline-block;
+  background-color: #fff;
+}
+
+.discover {
+  display: inline-block;
+  background-color: #fff;
+  font-size: 90%;
+  padding: 5px 25px;
+  border: dashed;
+  border-color: rgb(98, 124, 202);
+  color: rgb(68, 98, 190);
+  border-spacing: 0.5px;
+  text-decoration: none;
+  border-width: 2px;
+}
+
+.GirlsPower {
+  color: rgb(55, 81, 160);
+  font-size: 30px;
+  text-align: center;
+}
+.Colorful{
+  font-size: 15px;
+}
+
+.opciones {
+  border: 1px dotted gray;
+  border-width: 2px;
+  border-color: rgba(237, 232, 232, 0.876);
+
+}
+
+.Baby {
+  font-family: Quicksand;
+  text-decoration: none;
+  color: rgb(4, 21, 72);
+  font-weight: 1%;
+}
+
+.hover {
+font-size: 72%;
+color: black;
+}
+.color{
+  color: rgb(0, 0, 117);
+}
+.bordes{
+  border: 1px dotted grey;
+  border-spacing: .3px;
+}
+.newletters {
+  color: #fff;
+  font-family: Gilda_Display;
+  font-weight: 500;
+  font-size: 100%;
+}
+
+#email::placeholder {
+  color: white;
+}
+
+.suscribe a {
+  display: inline-block;
+  font-family: Francois_One;
+  width: 90%;
+  font-size: 72%;
+  color: coral;
+  padding: 5px;
+  border-width: 2px;
+  border-radius: 0px;
+  border-style: dashed;
+}
+.animation {
+  color: #fff;
+  font-family: Gilda_Display;
+  visibility: visible;
+  position: absolute;
+}
+.bordes {
+  border: 1px solid rgb(224, 224, 224);
+  border-width: 2px;
+  border-style: dashed;
+}
+.colorIcon {
+  color: #fff;
+  transition: 0.3s all ease-in;
+}
+.colorIcon:hover {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  margin: 10px;
+}
+a.categ{
+  color: rgb(55, 81, 160);
+}
+a.categ:hover{
+  color: coral;
+}
+.foot{
+  background: coral;
+
+}
+.add_car1{
+  position: relative;
+}
+.add_car{
+  position: absolute;
+  top: -24px;
+}
+.categ{
+  display: inline-block;
+  font-size: 72%;
+  width: 80px;
+}
+.hover:hover {
+  opacity: 0.8;
+}
+.searchBackground{
+  position: relative;
+}
+.fa-search i{
+  position: absolute;
+}
+.search{
+  background-color: coral;
+  height: 100%;
+  padding: 5px;
+  color :#fff;
+}
+.buttonPersonalize {
+  border: none;
+  background-color: #fff;
+}
+.active>span {
+  position: relative;
+  transition: 0.3s all ease;
+}
+
+.active>span::before {
+  content: url(/src/img/header/home-8.png);
+  top: 28px;
+  left: 50%;
+  position: absolute;
+  transform: translateX(-50%);
+}
+.bordes {
+  border: 1px solid rgb(224, 224, 224);
+  border-width: 2px;
+  border-style: dashed;
+}
+.containerInput {
+  width: 60px;
+  height: 40px;
+  border: 1px solid rgb(224, 224, 224);
+  border-width: 2px;
+  border-style: dashed;
+}
+
+.containerButton {
+  width: 140px;
+  height: 40px;
+  border: 0px;
+  background-color: coral;
+}
+
+.containerButton span {
+  color: #fff;
+  border-width: 2px;
+  border-style: dashed;
+  padding: 3px 15px;
+}

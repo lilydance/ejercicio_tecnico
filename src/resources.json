@@ -1,0 +1,730 @@
+
+{
+    "resources": [
+        {
+            "category": "babies",
+            "number": "(11)",
+            "products": [
+                {
+                    "sku": "babi1",
+                    "name": "",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-1-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-1-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$17.00",
+                    "rating": 1,
+                    "inStocks": "no",
+                    "category": "babies"
+                },
+                {
+                    "sku": "bab10",
+                    "name": "babies-10",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-10-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-10-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$20.00",
+                    "rating": 0,
+                    "inStocks": "yes",
+                    "category": "babies"
+                },
+                {
+                    "sku": "bab11",
+                    "name": "babies-11",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-11-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-11-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$35.00",
+                    "rating": 4,
+                    "inStocks": "yes",
+                    "category": "babies"
+                },
+                {
+                    "sku": "babi2",
+                    "name": "babies-2",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-2-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-2-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$15.00",
+                    "rating": 0,
+                    "inStocks": "yes",
+                    "category": "babies"
+                },
+                {
+                    "sku": "babi3",
+                    "name": "babies-3",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-3-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-3-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$36.00",
+                    "rating": 1,
+                    "inStocks": "yes",
+                    "category": "babies"
+                },
+                {
+                    "sku": "babi4",
+                    "name": "babies-4",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-4-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-4-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$12.00",
+                    "rating": 2,
+                    "inStocks": "yes",
+                    "category": "babies"
+                },
+                {
+                    "sku": "babi5",
+                    "name": "babies-5",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-5-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-5-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$20.00",
+                    "rating": 0,
+                    "inStocks": "no",
+                    "category": "babies"
+                },
+                {
+                    "sku": "babi6",
+                    "name": "babies-6",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-6-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-6-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$16.00",
+                    "rating": 1,
+                    "inStocks": "yes",
+                    "category": "babies"
+                },
+                {
+                    "sku": "babi7",
+                    "name": "babies-7",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-7-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-7-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$18.00",
+                    "rating": 2,
+                    "inStocks": "yes",
+                    "category": "babies"
+                },
+                {
+                    "sku": "babi8",
+                    "name": "babies-8",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-8-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-8-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$31.00",
+                    "rating": 0,
+                    "inStocks": "yes",
+                    "category": "babies"
+                },
+                {
+                    "sku": "babi9",
+                    "name": "babies-9",
+                    "imgs": [
+                        "img/Productos/resources/for-babies/for-babies-9-1-580x870.jpg",
+                        "img/Productos/resources/for-babies/for-babies-9-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$33.00",
+                    "rating": 4,
+                    "inStocks": "no",
+                    "category": "babies"
+                }
+            ]
+        },
+        {
+            "category": "boys",
+            "number": "(19)",
+            "products": [
+                {
+                    "sku": "boys1",
+                    "name": "boys-1",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-1-1-580x870.jpg",
+                        "img/Productos/resources/for-boys/boys-1-580x870(1).jpg",
+                        "img/Productos/resources/for-boys/boys-1-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$12.00",
+                    "rating": 3,
+                    "inStocks": "yes",
+                    "category": "boys"
+                },
+                {
+                    "sku": "boy10",
+                    "name": "boys-10",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-10-1-580x870.jpg",
+                        "img/Productos/resources/for-boys/boys-10-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$40.00",
+                    "rating": 1,
+                    "inStocks": "yes",
+                    "category": "boys"
+                },
+                {
+                    "sku": "boy11",
+                    "name": "boys-11",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-11-1-580x870.jpg",
+                        "img/Productos/resources/for-boys/boys-11-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$10.00",
+                    "rating": 4,
+                    "inStocks": "no",
+                    "category": "boys"
+                },
+                {
+                    "sku": "boys2",
+                    "name": "boys-2",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-2-1-580x870.jpg",
+                        "img/Productos/resources/for-boys/boys-2-580x870(1).jpg",
+                        "img/Productos/resources/for-boys/boys-2-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$25.00",
+                    "rating": 4,
+                    "inStocks": "yes",
+                    "category": "boys"
+                },
+                {
+                    "sku": "boys3",
+                    "name": "boys-3",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-3-1-580x870.jpg",
+                        "img/Productos/resources/for-boys/boys-3-580x870(1).jpg",
+                        "img/Productos/resources/for-boys/boys-3-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$16.00",
+                    "rating": 2,
+                    "inStocks": "no",
+                    "category": "boys"
+                },
+                {
+                    "sku": "boys4",
+                    "name": "boys-4",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-4-1-580x870.jpg",
+                        "img/Productos/resources/for-boys/boys-4-580x870(1).jpg",
+                        "img/Productos/resources/for-boys/boys-4-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$25.00",
+                    "rating": 2,
+                    "inStocks": "yes",
+                    "category": "boys"
+                },
+                {
+                    "sku": "boys5",
+                    "name": "boys-5",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-5-1-580x870.jpg",
+                        "img/Productos/resources/for-boys/boys-5-580x870(1).jpg",
+                        "img/Productos/resources/for-boys/boys-5-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$25.00",
+                    "rating": 1,
+                    "inStocks": "no",
+                    "category": "boys"
+                },
+                {
+                    "sku": "boys6",
+                    "name": "boys-6",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-6-1-580x870.jpg",
+                        "img/Productos/resources/for-boys/boys-6-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$20.00",
+                    "rating": 2,
+                    "inStocks": "yes",
+                    "category": "boys"
+                },
+                {
+                    "sku": "boys7",
+                    "name": "boys-7",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-7-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$23.00",
+                    "rating": 0,
+                    "inStocks": "no",
+                    "category": "boys"
+                },
+                {
+                    "sku": "boys8",
+                    "name": "boys-8",
+                    "imgs": [
+                        "img/Productos/resources/for-boys/boys-8-1-580x870.jpg",
+                        "img/Productos/resources/for-boys/boys-8-580x870(1).jpg",
+                        "img/Productos/resources/for-boys/boys-8-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$18.00",
+                    "rating": 0,
+                    "inStocks": "no",
+                    "category": "boys"
+                }
+            ]
+        },
+        {
+            "category": "girls",
+            "number": "(20)",
+            "products": [
+                {
+                    "sku": "girl1",
+                    "name": "girls-1",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-1-1-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-1-2-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$15.00",
+                    "rating": 4,
+                    "inStocks": "yes",
+                    "category": "girls"
+                },
+                {
+                    "sku": "gir10",
+                    "name": "girls-10",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-10-1-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-10-2-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-10-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$32.00",
+                    "rating": 1,
+                    "inStocks": "no",
+                    "category": "girls"
+                },
+                {
+                    "sku": "gir11",
+                    "name": "girls-11",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-11-1-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-11-2-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$30.00",
+                    "rating": 1,
+                    "inStocks": "no",
+                    "category": "girls"
+                },
+                {
+                    "sku": "girl2",
+                    "name": "girls-2",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-2-2-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-2-3-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-2-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$15.00",
+                    "rating": 3,
+                    "inStocks": "yes",
+                    "category": "girls"
+                },
+                {
+                    "sku": "girl3",
+                    "name": "girls-3",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-3-1-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-3-2-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-3-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$20.00",
+                    "rating": 4,
+                    "inStocks": "yes",
+                    "category": "girls"
+                },
+                {
+                    "sku": "girl4",
+                    "name": "girls-4",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-4-1-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-4-2-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-4-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$45.00",
+                    "rating": 0,
+                    "inStocks": "no",
+                    "category": "girls"
+                },
+                {
+                    "sku": "girl6",
+                    "name": "girls-6",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-6-1-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-6-2-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$23.00",
+                    "rating": 3,
+                    "inStocks": "yes",
+                    "category": "girls"
+                },
+                {
+                    "sku": "girl7",
+                    "name": "girls-7",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-7-1-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-7-2-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-7-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$25.00",
+                    "rating": 1,
+                    "inStocks": "no",
+                    "category": "girls"
+                },
+                {
+                    "sku": "girl8",
+                    "name": "girls-8",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-8-1-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-8-2-580x870.jpg",
+                        "img/Productos/resources/for-girls/girls-8-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$35.00",
+                    "rating": 1,
+                    "inStocks": "no",
+                    "category": "girls"
+                },
+                {
+                    "sku": "girl9",
+                    "name": "girls-9",
+                    "imgs": [
+                        "img/Productos/resources/for-girls/girls-9-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$15.00",
+                    "rating": 4,
+                    "inStocks": "no",
+                    "category": "girls"
+                }
+            ]
+        },
+        {
+            "category": "home",
+            "number": "(14)",
+            "products": [
+                {
+                    "sku": "home1",
+                    "name": "home-1",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-1-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-1-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$10.00",
+                    "rating": 0,
+                    "inStocks": "no",
+                    "category": "home"
+                },
+                {
+                    "sku": "hom10",
+                    "name": "home-10",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-10-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-10-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$12.00",
+                    "rating": 2,
+                    "inStocks": "yes",
+                    "category": "home"
+                },
+                {
+                    "sku": "hom11",
+                    "name": "home-11",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-11-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-11-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$20.00",
+                    "rating": 0,
+                    "inStocks": "yes",
+                    "category": "home"
+                },
+                {
+                    "sku": "hom12",
+                    "name": "home-12",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-12-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-12-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$21.00",
+                    "rating": 1,
+                    "inStocks": "yes",
+                    "category": "home"
+                },
+                {
+                    "sku": "hom13",
+                    "name": "home-13",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-13-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-13-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$25.00",
+                    "rating": 0,
+                    "inStocks": "yes",
+                    "category": "home"
+                },
+                {
+                    "sku": "hom14",
+                    "name": "home-14",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-14-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-14-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$25.00",
+                    "rating": 4,
+                    "inStocks": "no",
+                    "category": "home"
+                },
+                {
+                    "sku": "hom15",
+                    "name": "home-15",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-15-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-15-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$31.00",
+                    "rating": 0,
+                    "inStocks": "no",
+                    "category": "home"
+                },
+                {
+                    "sku": "hom16",
+                    "name": "home-16",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-16-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-16-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$12.00",
+                    "rating": 0,
+                    "inStocks": "no",
+                    "category": "home"
+                },
+                {
+                    "sku": "home2",
+                    "name": "home-2",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-2-2-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-2-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$20.00",
+                    "rating": 2,
+                    "inStocks": "yes",
+                    "category": "home"
+                },
+                {
+                    "sku": "home3",
+                    "name": "home-3",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-3-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-3-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$25.00",
+                    "rating": 2,
+                    "inStocks": "yes",
+                    "category": "home"
+                },
+                {
+                    "sku": "home4",
+                    "name": "home-4",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-4-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$32.00",
+                    "rating": 2,
+                    "inStocks": "no",
+                    "category": "home"
+                },
+                {
+                    "sku": "home5",
+                    "name": "home-5",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-5-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-5-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$21.00",
+                    "rating": 4,
+                    "inStocks": "yes",
+                    "category": "home"
+                },
+                {
+                    "sku": "home6",
+                    "name": "home-6",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-6-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$20.00",
+                    "rating": 0,
+                    "inStocks": "no",
+                    "category": "home"
+                },
+                {
+                    "sku": "home7",
+                    "name": "home-7",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-7-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-7-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$40.00",
+                    "rating": 2,
+                    "inStocks": "no",
+                    "category": "home"
+                },
+                {
+                    "sku": "home8",
+                    "name": "home-8",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-8-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-8-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$10.00",
+                    "rating": 2,
+                    "inStocks": "yes",
+                    "category": "home"
+                },
+                {
+                    "sku": "home9",
+                    "name": "home-9",
+                    "imgs": [
+                        "img/Productos/resources/for-home/for-home-9-1-580x870.jpg",
+                        "img/Productos/resources/for-home/for-home-9-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$22.00",
+                    "rating": 3,
+                    "inStocks": "yes",
+                    "category": "home"
+                }
+            ]
+        },
+        {
+            "category": "play",
+            "number": "(8)",
+            "products": [
+                {
+                    "sku": "toys1",
+                    "name": "toys-1",
+                    "imgs": [
+                        "img/Productos/resources/for-play/toys-1-2-580x870.jpg",
+                        "img/Productos/resources/for-play/toys-1-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$33.00",
+                    "rating": 4,
+                    "inStocks": "no",
+                    "category": "play"
+                },
+                {
+                    "sku": "toys2",
+                    "name": "toys-2",
+                    "imgs": [
+                        "img/Productos/resources/for-play/toys-2-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$41.00",
+                    "rating": 0,
+                    "inStocks": "yes",
+                    "category": "play"
+                },
+                {
+                    "sku": "toys3",
+                    "name": "toys-3",
+                    "imgs": [
+                        "img/Productos/resources/for-play/toys-3-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$20.00",
+                    "rating": 2,
+                    "inStocks": "yes",
+                    "category": "play"
+                },
+                {
+                    "sku": "toys4",
+                    "name": "toys-4",
+                    "imgs": [
+                        "img/Productos/resources/for-play/toys-4-2-580x870.jpg",
+                        "img/Productos/resources/for-play/toys-4-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$25.00",
+                    "rating": 0,
+                    "inStocks": "no",
+                    "category": "play"
+                },
+                {
+                    "sku": "toys5",
+                    "name": "toys-5",
+                    "imgs": [
+                        "img/Productos/resources/for-play/toys-5-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$22.00",
+                    "rating": 0,
+                    "inStocks": "yes",
+                    "category": "play"
+                },
+                {
+                    "sku": "toys6",
+                    "name": "toys-6",
+                    "imgs": [
+                        "img/Productos/resources/for-play/toys-6-580x870.jpg"
+                    ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "price": "$9.00",
+                    "rating": 2,
+                    "inStocks": "no",
+                    "category": "play"
+                }
+            ]
+        }
+    ]
+
+
+}
